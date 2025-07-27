@@ -114,3 +114,9 @@
   name: Caravan Palace - Lone Digger
   path:
     path: /Audio/_DV/Jukebox/Caravan_Palace_Lone_Digger-MONO.ogg
+
+- type: jukebox
+  id: CloudsOfFire
+  name: Hector - Clouds of Fire
+  path:
+    path: /Audio/_DV/Jukebox/Clouds_Of_Fire-MONO.ogg
